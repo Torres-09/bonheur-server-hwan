@@ -21,5 +21,5 @@
 - **CI/CD** - Github Actions, AWS CodeDeploy
 - **API Sheet** - Swagger
 
-### 인프라 아키텍처
-![img.png](docs/bonheur-architecture.png)
+### 프로젝트 소개
+![img.png](docs/Pasted%20Graphic.png)
